@@ -6,6 +6,6 @@ You should setup your 7th digital output pin your led.
 
 
  - You can call this url address for led off http://192.168.1.115/?kapat
- ![Image of Yaktocat](https://github.com/icobani/ArduinoEthernetLedSample/blob/master/LedOff.JPG?raw=true)
+ ![Image of Led Off](https://github.com/icobani/ArduinoEthernetLedSample/blob/master/LedOff.JPG?raw=true)
  - You can call this url address for led on http://192.168.1.115/?ac
- ![Image of Yaktocat](https://github.com/icobani/ArduinoEthernetLedSample/blob/master/LedOn.JPG?raw=true)
+ ![Image of Led On](https://github.com/icobani/ArduinoEthernetLedSample/blob/master/LedOn.JPG?raw=true)
